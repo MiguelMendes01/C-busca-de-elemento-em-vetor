@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 
 int main () {
     int vet [8], num, achei=0;
